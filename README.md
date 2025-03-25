@@ -2,6 +2,10 @@
 
 Para ejecutar la aplicación con Docker, primero debemos de crear la base de datos, seguido deL proyecto de Django, para ello seguimos los siguientes pasos:
 
+> [!NOTE]  
+> La información completa de este proyecto se encontrará en el siguiente repositorio:
+> https://github.com/Derek486/hotelier-management-stack.git 
+
 ## Requirements:
 
 -   asgiref
